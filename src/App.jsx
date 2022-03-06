@@ -47,7 +47,7 @@ export default function App() {
       <MDBContainer fluid>
         <MDBNavbarBrand href='#'>
             <img
-              src='https://mdbootstrap.com/img/logo/mdb-transaprent-noshadows.webp'
+              src='https://cdn-icons-png.flaticon.com/128/506/506931.png'
               height='30'
               alt=''
               loading='lazy'
@@ -88,6 +88,7 @@ export default function App() {
    <div className='p-5 text-center bg-light'>
         <h1 className='mb-3'>Ruben Colon</h1>
         <h4 className='mb-3'>Web Developer</h4>
+        <p className='mb-3'> Thank you for visiting, this website was designed by <em>me</em> using React components from an API. </p>
         <a className='btn btn-primary' href='' role='button'>
           Contact Me!
         </a>
