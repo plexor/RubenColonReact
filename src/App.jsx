@@ -77,7 +77,7 @@ export default function App() {
               <MDBNavbarLink href='#'>Pricing</MDBNavbarLink>
             </MDBNavbarItem>
             <MDBNavbarItem>
-              <MDBNavbarLink href='#'>About</MDBNavbarLink>
+              <MDBNavbarLink href='#'>Abouts</MDBNavbarLink>
             </MDBNavbarItem>
           </MDBNavbarNav>
         </MDBCollapse>
